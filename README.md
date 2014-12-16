@@ -1,7 +1,8 @@
 # demisx light syntax theme for Atom
 
-A light syntax theme for Atom editor from [demisx](https://github.com/demisx).
-Recommended for devs who find dark themes too hard on their eyes.
+A light syntax theme from [demisx](https://github.com/demisx) for the Atom editor.
+Recommended for devs who find dark themes too hard on their eyes. Pairs really well the
+[demisx light UI theme](https://github.com/demisx/atom-demisx-light-ui).
 
 Preview
 ---
