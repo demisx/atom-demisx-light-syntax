@@ -1,7 +1,7 @@
 {
   "name": "demisx-light-syntax",
   "theme": "syntax",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A light syntax theme for Atom editor from demisx",
   "repository": {
     "type": "git",
