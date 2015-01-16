@@ -1,5 +1,5 @@
 {
-  "name": "demisx-light-syntax",
+  "name": "atom-demisx-light-syntax",
   "theme": "syntax",
   "version": "0.2.0",
   "description": "A light syntax theme for Atom editor from demisx",
