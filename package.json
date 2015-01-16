@@ -3,9 +3,34 @@
   "theme": "syntax",
   "version": "0.3.2",
   "description": "A light syntax theme for Atom editor from demisx",
-  "repository": "https://github.com/demisx/atom-demisx-light-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demisx/atom-demisx-light-syntax"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
+  },
+  "readme": "# demisx light syntax theme for Atom\n\nA light syntax theme from [demisx](https://github.com/demisx) for the Atom editor.\nRecommended for devs who find dark themes too hard on their eyes. Pairs really well the\n[demisx light UI theme](https://github.com/demisx/atom-demisx-light-ui).\n\nPreview\n---\n\n![demisx-light-syntax-theme screenshot](https://raw.githubusercontent.com/demisx/atom-demisx-light-syntax/master/screenshot.png)\n\nInstallation\n---\n1. Open `Atom Preferences > Themes > Search`\n1. Search for `demisx light syntax`\n1. Click `Install` button to install the theme\n1. Activate the theme by selecting it from the `Syntax Theme` dropdown in the `Choose a Theme` section\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/demisx/atom-demisx-light-syntax/issues"
+  },
+  "homepage": "https://github.com/demisx/atom-demisx-light-syntax",
+  "_id": "demisx-light-syntax@0.3.2",
+  "dist": {
+    "shasum": "a62dff02ede5502810a2ce9b993df9e9265359f4"
+  },
+  "_resolved": "/private/var/folders/24/jf0__16n3pn5f62xm4w_lk4c0000gn/T/d-115016-8554-1m08idl/package.tgz",
+  "_from": "/private/var/folders/24/jf0__16n3pn5f62xm4w_lk4c0000gn/T/d-115016-8554-1m08idl/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
   }
 }
