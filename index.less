@@ -280,7 +280,7 @@ atom-text-editor, :host {
 .source.gfm .markup.heading { color: @blue; }
 .keyword {
   &.control { color: @brown; }
-  &.operator.new { color: @brown; }
+  &.operator.new { color: darken(@blue, 10%) }
 }
 .constant.language.boolean { font-weight: bold; }
 .storage {
@@ -289,13 +289,16 @@ atom-text-editor, :host {
     color: @blue;
   }
 }
+.support {
+  &.class { color: @cyan; }
+}
 .variable {
   color: inherit;
   &.parameter {
     color: inherit;
   }
   &.language {
-    color: darken(@blue, 20%);
+    color: @cyan;
   }
 }
 .editor.is-focused {
