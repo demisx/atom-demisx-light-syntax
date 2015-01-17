@@ -17,12 +17,12 @@
     "url": "https://github.com/demisx/atom-demisx-light-syntax/issues"
   },
   "homepage": "https://github.com/demisx/atom-demisx-light-syntax",
-  "_id": "demisx-light-syntax@0.3.2",
+  "_id": "demisx-light-syntax@0.3.3",
   "dist": {
-    "shasum": "a62dff02ede5502810a2ce9b993df9e9265359f4"
+    "shasum": "78f2672e7ccf8ad7ce30222d97c87818d8dd9363"
   },
-  "_resolved": "/private/var/folders/24/jf0__16n3pn5f62xm4w_lk4c0000gn/T/d-115016-8554-1m08idl/package.tgz",
-  "_from": "/private/var/folders/24/jf0__16n3pn5f62xm4w_lk4c0000gn/T/d-115016-8554-1m08idl/package.tgz",
+  "_resolved": "/private/var/folders/24/jf0__16n3pn5f62xm4w_lk4c0000gn/T/d-115016-9631-1vht5lx/package.tgz",
+  "_from": "/private/var/folders/24/jf0__16n3pn5f62xm4w_lk4c0000gn/T/d-115016-9631-1vht5lx/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
