@@ -309,17 +309,40 @@ atom-text-editor, :host {
 .gutter {
   .line-number {
     &.cursor-line {
-      background-color: @syntax-gutter-background-color-selected;
+      // background-color: @syntax-gutter-background-color-selected;
     }
   }
 }
 
 .selection .region {
-  background-color: @syntax-selection-color;
+  background-color: @syntax-selection-color-blur;
 }
 
 .source.json .meta.structure.dictionary.value.json
   > .string.quoted
   >  .punctuation.definition.string.json {
   color: @green !important;
+}
+
+// .bracket-matcher .region {
+//   // background-color: transparent;
+//   border: 1 solid @gray;
+//   opacity: .7;
+//   // border-bottom: 0 none;
+// }
+
+// .bracket-matcher {
+//     border-bottom: 1px solid lime;
+//     position: absolute;
+//     border: 1px solid lime;
+//     background-color: transparent !important;
+// }
+
+atom-text-editor, atom-text-editor::shadow {
+  .bracket-matcher .region {
+    border-bottom: 1px solid lime;
+    position: absolute;
+    border: 1px solid lime;
+    background-color: transparent;
+  }
 }
